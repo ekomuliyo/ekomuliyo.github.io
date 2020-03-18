@@ -18,7 +18,7 @@ navigation:
     url: /archive
 
 
-paginate: 8
+paginate: 4
 
 footer-links: 
   weibo: #https://www.weibo.com/<thispart>
@@ -27,7 +27,7 @@ footer-links:
   email: ekomuliyo@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/ekomuliyo
+  github: ekomuliyo
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
