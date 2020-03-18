@@ -1,2 +1,1 @@
-Repository ini adalah isi dari blog halaman ini, yang menggunakan library dari ini.
-https://github.com/FromEndWorld/LOFFER
+Repository ini adalah isi dari blog halaman [ekomuliyo.github.io](https://ekomuliyo.github.io), yang menggunakan library dari [LOFFER](https://github.com/FromEndWorld/LOFFER)
