@@ -10,12 +10,12 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 
 navigation:
-  - name: Home
+  - name: Beranda
     url: /
-  - name: About
-    url: /about
-  - name: Archive
-    url: /archive
+  - name: Tentang
+    url: /tentang
+  - name: Arsip
+    url: /arsip
 
 
 paginate: 4
